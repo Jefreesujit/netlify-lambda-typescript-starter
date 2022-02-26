@@ -1,6 +1,9 @@
 # netlify-lambda-typescript-starter
 A simple boilerplate template for netlify typescript functions
 
+
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jefreesujit/netlify-lambda-typescript-starter)
+
 ### Tech
 
 This Project uses the following and few other services to work:
